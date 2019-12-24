@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "FileMover": {
+      "commandName": "Project",
+      "commandLineArgs": "\"C:\\\\Users\\\\gvar3\\\\Desktop\\\\htgtwebjob\" \"C:\\\\Users\\\\gvar3\\\\Desktop\\\\DestinationFiles\""
+    }
+  }
+}
